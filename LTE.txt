@@ -2,9 +2,8 @@
 # profile-web-page: https://github.com
 # support-url: https://t.me/+CovbfAmtSrBmYTdi
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=0; expire=0
+# subscription-userinfo: upload=0; download=0; total=854347202560000; expire=0
 # Всего рабочих: 95
-
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@109.120.188.50:993?encryption=none&security=reality&sni=max.ru&fp=chrome&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&spx=%2F&flow=xtls-rprx-vision&type=tcp&headerType=none#🇷🇺@KADET_VPN_bot
 vless://f66a80f8-56e4-49cd-bf60-3083b2fa0e53@213.171.26.10:3443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=firefox&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789&type=xhttp&host=&path=%2F&mode=auto#🇷🇺@KADET_VPN_bot
