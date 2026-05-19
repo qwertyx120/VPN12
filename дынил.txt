@@ -1,4 +1,4 @@
-# profile-title: WIFI KADET
+# profile-title: DINJA KADET
 # profile-web-page: https://github.com
 # support-url: https://t.me/+CovbfAmtSrBmYTdi
 # profile-update-interval: 1
